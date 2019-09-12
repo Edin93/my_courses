@@ -1,0 +1,81 @@
+1- zero day:
+-a zero day vulnerability is a computer software vulnerability that is unknown to, or unaddressed by those who should be interested in mitigating the vulnerability. until the vulnerability is mitigated, hackers can exploit it for their own evil.
+
+2- VM:
+-a virtual machine is an emulation of computer system.
+- it's based on computer architectures.
+- provides the functionality of a physical computer.
+- its implementation may involve specialized hardware, software or a combination.
+- there are different kinds of VM, mainly:
+a- system virtual machines: (full-virtualization) a substitute for a physical computer and can execute entire OSs.
+b- process virual machines: designed to execute computer programs in a platform-indepent environment.
+
+3- Vagrant:
+- Vagrant is an OSS (open source software) product, for building and maintaining portable software development environment such as AWS, virtualBox, Docker containers, VMWare.
+- It tries to simplify software configuration management of virtualizations in order to increase development productivity.
+- It was first started as a side project by Mitchell Hashimoto in 2010.
+-It's written in ruby.
+- Its ecosystem supports development in a few languages.
+
+4- Ubuntu:
+- a free and open source linux distribution based on Debian.
+- It's officially  released in 3 editions: desktop, server and core (for IoT devices and robots).
+- a popular OS for cloud computing.
+- the word "Ubuntu" is coming from the african philosophy ubuntu which means "humanity to others" or "I am what I am because of who we all are".
+
+5- uname (command):
+- It prints system information.
+- When you are in console mode, there is no 'Right click > About' to give you information about your operating system. In Linux, you can use command uname to help you about that. Uname is the short name for unix name. Just type uname in the console.
+
+6- SCM:
+- Source Code Management is used to track modifications to a source code repository.
+- It tracks a running history of changes to a code base
+- and helps resolve conflicts when merging updates from multiple contributors (coders).
+
+7- Git:
+- a distributed version control system for tracking changes in a source code during software development.
+- created by Linux torvalds in 2005.
+
+8- Github:
+- An american company.
+- Provides hosting for software development version control using Git.
+- It offers all of the git functionality as well as its own features.
+
+9- Git Vs Github:
+- Git is a revision control system, a tool to manage your source code history. GitHub is a hosting service for Git repositories. So they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+
+10- Feynman Technique:
+ 1- choose a concept you want to learn about.
+ 2- Pretend you are teaching it to a child.
+ 3- Identify gaps in your explanation and go back to the materials to better understand.
+ 4- Review and simplify.
+ 
+11- Emacs:
+- a class of cross-platform highly customizable text editors.
+- it includes features to help you write in many different human languages and programming/markup languages.
+- it provides tools for compiling, running and testing programs.
+- created by Richard Stallman.
+- first released in 1976.
+- it's developed under the GNU project and written in C and Emacs lisp.
+- has many types, but GNU Emacs and XEmacs are most popular versions.
+- At anytime, on and only one buffer is selected, we call it the current buffer.
+
+12- Richard Matthew Stallman:
+- an american free software movement activist.
+- in 1983, he launched the free software movement, by announcing the project to develop the GNU operating system.
+
+13- Buffer:
+- The text you are editing in Emacs resides in an object called a buffer.
+- Each time you visit a file, a buffer is used to hold the file's text.
+- Each time you invoke a directory, a buffer is used to hold the directory listing.
+- When you ask for a command's documentation, that appears in a buffer named Help.
+- its content is a series of chareacters.
+
+14- Vi:
+- is a screen-oriented text editor originally created for the unix operating system.
+- was created by billy joy in 1976.
+
+15- Billy Joy:
+- is an american computer engineer.
+- co-founded sun microsystems in 1982.
+
