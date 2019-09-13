@@ -1,9 +1,9 @@
-#The shell (sh):
+# The shell (sh):
 - it's a CLI (command line interface).
 - it's a program that takes commands from the keyboard and gives them to the OS to perform.
 - on most unix-like systems, there's a program called bash that acts as the shell program. there are other shell programs.
 
-#Terminal:
+# Terminal:
 - a program called terminal emulator.
 - it opens a window and lets you interact with the shell.
 
