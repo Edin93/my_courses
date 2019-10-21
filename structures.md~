@@ -1,0 +1,18 @@
+# Structure:
+* A structure is a user defined data type available in C that allows to combine data items of different kinds.
+## Structure declaration:
+* You can define a structure in the globa scope of your program.
+* You can declare elements of your structure in its scope.
+## Example:
+struct User
+{
+char *name;
+char *email;
+int age;
+}
+
+int main(void)
+{
+struct User user;
+return (0);
+}
