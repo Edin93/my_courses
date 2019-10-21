@@ -22,3 +22,15 @@
 ## Include guard
 * an #include guard, sometimes called a macro guard, header guard or file guard, is a particular construct used to avoid the problem of double inclusion when dealing with the include directive.
 
+# List of preprocessor directives :
+* #include
+* #define
+* * #undef
+* #ifdef
+* #ifndef
+* #if
+* #else
+* #elif
+* #endif
+* #error
+* #pragma
