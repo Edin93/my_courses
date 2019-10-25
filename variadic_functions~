@@ -1,4 +1,0 @@
-#stdarg.h
-* strdarg.h is a header in C's standard library that allows functions to accept an indefinite number of arguments.
-* It provides facilities for stepping through a list of function arguments of unknown number and type.
-* The contents of stdarg.h are typically used in variadic functions.
